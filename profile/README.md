@@ -4,17 +4,52 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
 
 ## Módulos
 
-| #   | Modelo                | Repositório  | Status |
-|-----|-----------------------|-------|----------|-----|
-| 00  | QA - Global           | CORE  | WRAPPER  | --- |
-| 00  | QA - Local Eólica     | CORE  | WRAPPER  | --- |
-| 00  | QA - Local Solar      | CORE  | WRAPPER  | --- |
-| 00  | Satélite - HD         | CORE  | WRAPPER  | --- |
-| 00  | DS - HD               | CORE  | WRAPPER  | --- |
-| 00  | PCM - DIR - HD        | CORE  | WRAPPER  | --- |
-| 00  | PCM - IND - HD        | CORE  | WRAPPER  | --- |
-| 00  | Combinação - ALL - HD | CORE  | WRAPPER  | --- |
-| 00  | WRF - Eólica          | CORE  | WRAPPER  | --- |
-| 00  | WRF - Solar           | CORE  | WRAPPER  | --- |
-| 00  | Consumer - GFS        | ----  | WRAPPER  | --- |
-| 00  | Consumer - GOES 19    | ----  | WRAPPER  | --- |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th >#</th>
+      <th >Modelo</th>
+      <th colspan="2">Repositório</th>
+      <th >Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>00</td><td>QA - Global</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>QA - Local Eólica</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>QA - Local Solar</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>Satélite - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>DS - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>PCM - DIR - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>PCM - IND - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>Combinação - ALL - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>WRF - Eólica</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>WRF - Solar</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>Consumer - GFS</td><td>----</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>Consumer - GOES 19</td><td>----</td><td>WRAPPER</td><td>---</td>
+    </tr>
+  </tbody>
+</table>
+
