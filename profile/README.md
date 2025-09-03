@@ -5,7 +5,7 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
 ## Módulos
 
 | #   | Modelo                | Repositório | | Status |
-|-----|-----------------------|---------------|--------|
+|-----|-----------------------|-------|----------|-----|
 | 00  | QA - Global           | CORE  | WRAPPER  | --- |
 | 00  | QA - Local Eólica     | CORE  | WRAPPER  | --- |
 | 00  | QA - Local Solar      | CORE  | WRAPPER  | --- |
