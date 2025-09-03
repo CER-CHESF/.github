@@ -54,7 +54,7 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td colspan="5">CONECTORES</td>
     </tr>
     <tr>
-      <td>00</td><td>Consumer - GFS</td><td>----</td><td>[WRAPPER](https://github.com/CER-CHESF/p6_gfs_consumer</td><td>---</td>
+      <td>00</td><td>Consumer - GFS</td><td>----</td><td>[WRAPPER](https://github.com/CER-CHESF/p6_gfs_consumer)</td><td>---</td>
     </tr>
     <tr>
       <td>00</td><td>Consumer - GOES 19</td><td>----</td><td>WRAPPER</td><td>---</td>
