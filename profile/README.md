@@ -2,18 +2,21 @@
 
 Sistema inteligente com aerogerador integrado às fontes deenergia eólica, solar e storage como plataforma de desenvolvimento visando melhorias contínuas no processo de geração de energia elétrica
 
-## Módulos
+## Componentes
 
 <table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
       <th >#</th>
-      <th >Modelo</th>
+      <th >Componente</th>
       <th colspan="2">Repositório</th>
       <th >Status</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="5">MÓDELOS</td>
+    </tr>
     <tr>
       <td>00</td><td>QA - Global</td><td>CORE</td><td>WRAPPER</td><td>---</td>
     </tr>
@@ -39,10 +42,16 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td>00</td><td>Combinação - ALL - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
     </tr>
     <tr>
+      <td colspan="5">LXC / VM</td>
+    </tr>
+    <tr>
       <td>00</td><td>WRF - Eólica</td><td>CORE</td><td>WRAPPER</td><td>---</td>
     </tr>
     <tr>
       <td>00</td><td>WRF - Solar</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+    </tr>
+    <tr>
+      <td colspan="5">CONECTORES</td>
     </tr>
     <tr>
       <td>00</td><td>Consumer - GFS</td><td>----</td><td>WRAPPER</td><td>---</td>
@@ -52,4 +61,3 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
     </tr>
   </tbody>
 </table>
-
