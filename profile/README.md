@@ -18,46 +18,46 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td colspan="5">MODELOS</td>
     </tr>
     <tr>
-      <td>00</td><td>QA - Global</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>QA - Global</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>QA - Local Eólica</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>QA - Local Eólica</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>QA - Local Solar</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>QA - Local Solar</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>Satélite - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>Satélite - HD</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>DS - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>DS - HD</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>PCM - DIR - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>PCM - DIR - HD</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>PCM - IND - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>PCM - IND - HD</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>Combinação - ALL - HD</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>Combinação - ALL - HD</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
       <td colspan="5">LXC / VM</td>
     </tr>
     <tr>
-      <td>00</td><td>WRF - Eólica</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>WRF - Eólica</td><td> ---</td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>WRF - Solar</td><td>CORE</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>WRF - Solar</td><td> ---</td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
       <td colspan="5">CONECTORES</td>
     </tr>
     <tr>
-      <td>00</td><td>Consumer - GFS</td><td>----</td><td>[WRAPPER](https://github.com/CER-CHESF/p6_gfs_consumer)</td><td>---</td>
+      <td>00</td><td>Consumer - GFS</td><td> ----</td><td><a href="https://github.com/CER-CHESF/p6_gfs_consumer">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>Consumer - GOES 19</td><td>----</td><td>WRAPPER</td><td>---</td>
+      <td>00</td><td>Consumer - GOES 19</td><td> ----</td><td><a href="https://github.com/CER-CHESF/p6_goes19_consumer">WRAPPER</a></td><td> ---</td>
     </tr>
   </tbody>
 </table>
