@@ -27,7 +27,7 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td>00</td><td>QA - Local Solar</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>Satélite - HD</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
+      <td>00</td><td>Satélite - HD</td><td><a href="https://github.com/CER-CHESF/p6_sat_h_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6_sat_h_wrapper">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
       <td>00</td><td>DS - HD</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
@@ -37,6 +37,9 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
     </tr>
     <tr>
       <td>00</td><td>PCM - IND - HD</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
+    </tr>
+    <tr>
+      <td>00</td><td>TS - HD</td><td><a href="https://github.com/CER-CHESF/p6_ts_hd_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6_ts_hd_wrapper">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
       <td>00</td><td>Combinação - ALL - HD</td><td><a href="#">CORE</a></td><td><a href="#">WRAPPER</a></td><td> ---</td>
