@@ -48,19 +48,19 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td colspan="5">LXC / VM</td>
     </tr>
     <tr>
-      <td>00</td><td>WRF - Eólica</td><td> ---</td><td><a href="#">WRAPPER</a></td><td> ---</td>
+      <td>00</td><td>WRF - Eólica</td><td colspan="2"><a href="#">CONTAINER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>WRF - Solar</td><td> ---</td><td><a href="#">WRAPPER</a></td><td> ---</td>
+      <td>00</td><td>WRF - Solar</td><td colspan="2"><a href="#">CONTAINER</a></td><td> ---</td>
     </tr>
     <tr>
       <td colspan="5">CONSUMES API</td>
     </tr>
     <tr>
-      <td>00</td><td>Consumer - GFS</td><td> ----</td><td><a href="https://github.com/CER-CHESF/p6_gfs_consumer">CONSUMER</a></td><td> ---</td>
+      <td>00</td><td>Consumer - GFS</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_gfs_consumer">CONSUMER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>Consumer - GOES 19</td><td> ----</td><td><a href="https://github.com/CER-CHESF/p6_goes19_consumer">CONSUMER</a></td><td> ---</td>
+      <td>00</td><td>Consumer - GOES 19</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_goes19_consumer">CONSUMER</a></td><td> ---</td>
     </tr>
   </tbody>
 </table>
