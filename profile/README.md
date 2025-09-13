@@ -33,7 +33,7 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td>00</td><td>DS - HD</td><td><a href="https://github.com/CER-CHESF/p6_ds_hd_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6-ds-hd-wrapper">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>PCM - DIR - HD</td><td colspan="2"> Mesma capsula de DS - HD </td>
+      <td>00</td><td>PCM - DIR - HD</td><td colspan="3"> Mesma capsula de DS - HD </td>
     </tr>
     <tr>
       <td>00</td><td>PCM - IND - HD</td><td><a href="https://github.com/CER-CHESF/p6_pcm_ind_hd_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6-pcm-ind-hd-wrapper">WRAPPER</a></td><td> ---</td>
