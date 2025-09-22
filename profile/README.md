@@ -42,7 +42,7 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td>00</td><td>TS - HD</td><td><a href="https://github.com/CER-CHESF/p6_ts_hd_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6_ts_hd_wrapper">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>Combinação - ALL - HD</td><td><a href="https://github.com/CER-CHESF/p6-comb-all-core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6-comb-all-wrapper">WRAPPER</a></td><td> ---</td>
+      <td>00</td><td>Combinação - ALL - HD</td><td><a href="https://github.com/CER-CHESF/p6_comb_all_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6-comb-all-wrapper">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
       <td colspan="5">LXC / VM</td>
