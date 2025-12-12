@@ -64,3 +64,46 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
     </tr>
   </tbody>
 </table>
+
+
+
+## Montando ambiente para a suite
+
+### Repositório de dados
+
+Faça o download dos scripts [create_data_room.sh](create_data_room.sh) e do [create_docker_volumes.sh](create_docker_volumes.sh) no diretório designado para repositório de dados da ferramenta.
+
+- Execute:
+
+```bash
+./create_data_room.sh
+./create_docker_volumes.sh
+```
+
+### Montar os volumes no compose.yaml
+
+- Listar os volumes disponíveis:
+
+```bash
+docker volume ls | grep ape_
+```
+
+- No compose.yaml do seu modelo:
+  Use para os modelos os volumes que já foram criados previamente como externos.
+
+```yaml
+# ...
+# Na sessão de mapeamento de volumes esxterno/interno do container
+    volumes:
+      - data_p6_ds_hd_output_logs:/wrapper_workdir/output/logs
+      - data_p6_qa_local_eolico_output_operation:/wrapper_workdir/input/p6_qa_local_eolico
+# ...
+# Na sessão de definição de volumes
+volumes:
+  data_p6_ds_hd_output_logs:
+    external: true
+  data_p6_qa_local_eolico_output_operation:
+    external: true
+# ...
+
+```
