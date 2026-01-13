@@ -91,7 +91,7 @@ Faça o download dos scripts [create_data_room.sh](create_data_room.sh) e do [cr
 - Listar os volumes disponíveis:
 
 ```bash
-docker volume ls | grep ape_
+docker volume ls | grep data_p6_
 ```
 
 - No compose.yaml do seu modelo:
@@ -99,7 +99,7 @@ docker volume ls | grep ape_
 
 ```yaml
 # ...
-# Na sessão de mapeamento de volumes esxterno/interno do container
+# Na sessão de mapeamento de volumes externo/interno do container
     volumes:
       - data_p6_ds_hd_output_logs:/wrapper_workdir/output/logs
       - data_p6_qa_local_eolico_output_operation:/wrapper_workdir/input/p6_qa_local_eolico
