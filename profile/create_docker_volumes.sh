@@ -19,6 +19,12 @@ volumes=(
     "data_p6_input_satellite_goes16:data/input/satellite/goes16"
     "data_p6_input_satellite_goes19:data/input/satellite/goes19"
 
+    "data_p6_data_connector_output_logs:data/output/p6_data_connector/logs"
+    "data_p6_data_connector_output_operation:data/output/p6_data_connector/operation"
+    "data_p6_data_connector_output_train:data/output/p6_data_connector/train"
+    "data_p6_data_connector_params_config:data/params/p6_data_connector/config"
+    "data_p6_data_connector_params_model_trained_state:data/params/p6_data_connector/model_trained_state"
+
     "data_p6_qa_global_output_logs:data/output/p6_qa_global/logs"
     "data_p6_qa_global_output_operation:data/output/p6_qa_global/operation"
     "data_p6_qa_global_output_train:data/output/p6_qa_global/train"
@@ -60,6 +66,12 @@ volumes=(
     "data_p6_pcm_ind_hd_output_train:data/output/p6_pcm_ind_hd/train"
     "data_p6_pcm_ind_hd_params_config:data/params/p6_pcm_ind_hd/config"
     "data_p6_pcm_ind_hd_params_model_trained_state:data/params/p6_pcm_ind_hd/model_trained_state"
+
+    "data_p6_pcm_ind_fis_hd_output_logs:data/output/p6_pcm_ind_fis_hd/logs"
+    "data_p6_pcm_ind_fis_hd_output_operation:data/output/p6_pcm_ind_fis_hd/operation"
+    "data_p6_pcm_ind_fis_hd_output_train:data/output/p6_pcm_ind_fis_hd/train"
+    "data_p6_pcm_ind_fis_hd_params_config:data/params/p6_pcm_ind_fis_hd/config"
+    "data_p6_pcm_ind_fis_hd_params_model_trained_state:data/params/p6_pcm_ind_fis_hd/model_trained_state"
 
     "data_p6_ts_hd_output_logs:data/output/p6_ts_hd/logs"
     "data_p6_ts_hd_output_operation:data/output/p6_ts_hd/operation"
