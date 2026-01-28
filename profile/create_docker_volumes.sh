@@ -16,8 +16,7 @@ volumes=(
     "data_p6_input_obs_esol:data/input/obs/esol"
     "data_p6_input_wrf_ctrl:data/input/wrf_ctrl"
     "data_p6_input_wrf_solar:data/input/wrf_solar"
-    "data_p6_input_satellite_goes16:data/input/satellite/goes16"
-    "data_p6_input_satellite_goes19:data/input/satellite/goes19"
+    "data_p6_input_satellite:data/input/satellite/"
 
     "data_p6_data_connector_output_logs:data/output/p6_data_connector/logs"
     "data_p6_data_connector_output_operation:data/output/p6_data_connector/operation"
