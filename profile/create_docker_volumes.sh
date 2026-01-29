@@ -84,6 +84,7 @@ volumes=(
     "data_p6_comb_all_params_config:data/params/p6_comb_all/config"
     "data_p6_comb_all_params_model_trained_state:data/params/p6_comb_all/model_trained_state"
 
+    "p6_goes19_consumer_output_logs:data/output/p6_goes19_consumer/logs"
 )
 
 # Loop para criar cada volume
