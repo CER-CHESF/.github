@@ -11,6 +11,9 @@ mkdir -pv ./data/output/{p6_data_connector,p6_qa_global,p6_qa_local_eolico,p6_qa
 
 mkdir -pv ./data/params/{p6_data_connector,p6_qa_global,p6_qa_local_eolico,p6_qa_local_solar,p6_sat_h,p6_ds_hd,p6_pcm_dir_hd,p6_pcm_ind_hd,p6_pcm_ind_fis_hd,p6_ts_hd,p6_comb_all}
 
+mkdir -pv ./data/output/p6_goes19_consumer/logs
+
+
 for d in ./data/output/*; do
     mkdir -pv "$d"/{train,operation,logs}
 done
