@@ -24,7 +24,7 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td>00</td><td>QA - Local - Eólica</td><td><a href="https://github.com/CER-CHESF/p6_qa_local_eolica_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6_qa_local_eolica_wrapper">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>QA - Local - Solar</td><td><a href="https://github.com/CER-CHESF/p6_qa_local_solar_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6_qa_local_solar_wrapper">WRAPPER</a></td><td> ---</td>
+      <td>00</td><td>QA - Local - Solar</td><td><a href="https://github.com/CER-CHESF/p6_qa_local_solar_core">CORE ✅</a></td><td><a href="https://github.com/CER-CHESF/p6_qa_local_solar_wrapper">WRAPPER ✅</a></td><td> ---</td>
     </tr>
     <tr>
       <td>00</td><td>Satélite - HD</td><td><a href="https://github.com/CER-CHESF/p6_sat_h_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6_sat_h_wrapper">WRAPPER</a></td><td> ---</td>
@@ -36,13 +36,13 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td>00</td><td>PCM - DIR - HD</td><td colspan="3"> Mesma capsula de DS - HD </td>
     </tr>
     <tr>
-      <td>00</td><td>PCM - IND - HD</td><td><a href="https://github.com/CER-CHESF/p6_pcm_ind_hd_core">CORE ✅</a></td><td><a href="https://github.com/CER-CHESF/p6-pcm-ind-hd-wrapper">WRAPPER 👨‍💻</a></td><td> ---</td>
+      <td>00</td><td>PCM - IND - HD</td><td><a href="https://github.com/CER-CHESF/p6_pcm_ind_hd_core">CORE ✅</a></td><td><a href="https://github.com/CER-CHESF/p6-pcm-ind-hd-wrapper">WRAPPER ✅</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>PCM - IND - FIS - HD</td><td><a href="https://github.com/CER-CHESF/p6_pcm_ind_fis_hd_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6_pcm_ind_fis_hd_wrapper">WRAPPER</a></td><td> ---</td>
+      <td>00</td><td>PCM - IND - FIS - HD</td><td><a href="https://github.com/CER-CHESF/p6_pcm_ind_fis_hd_core">CORE ✅</a></td><td><a href="https://github.com/CER-CHESF/p6_pcm_ind_fis_hd_wrapper">WRAPPER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>TS - HD</td><td><a href="https://github.com/CER-CHESF/p6_ts_hd_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6_ts_hd_wrapper">WRAPPER</a></td><td> ---</td>
+      <td>00</td><td>TS - HD</td><td><a href="https://github.com/CER-CHESF/p6_ts_hd_core">CORE ✅</a></td><td><a href="https://github.com/CER-CHESF/p6_ts_hd_wrapper">WRAPPER ✅</a></td><td> ---</td>
     </tr>
     <tr>
       <td>00</td><td>Combinação - ALL - HD</td><td><a href="https://github.com/CER-CHESF/p6_comb_all_core">CORE</a></td><td><a href="https://github.com/CER-CHESF/p6-comb-all-wrapper">WRAPPER</a></td><td> ---</td>
@@ -60,13 +60,13 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td colspan="5">CONSUMES API</td>
     </tr>
     <tr>
-      <td>00</td><td>Consumer - EPM</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_data_connector">CONSUMER</a></td><td> ---</td>
+      <td>00</td><td>Consumer - EPM</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_data_connector">CONSUMER ✅</a></td><td> ---</td>
     </tr>
     <tr>
       <td>00</td><td>Consumer - GFS</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_gfs_consumer">CONSUMER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>Consumer - GOES 19</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_goes19_consumer">CONSUMER</a></td><td> ---</td>
+      <td>00</td><td>Consumer - GOES 19</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_goes19_consumer">CONSUMER ✅</a></td><td> ---</td>
     </tr>
   </tbody>
 </table>
