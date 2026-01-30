@@ -18,12 +18,6 @@ volumes=(
     "data_p6_input_wrf_solar:data/input/wrf_solar"
     "data_p6_input_satellite:data/input/satellite/"
 
-    "data_p6_data_connector_output_logs:data/output/p6_data_connector/logs"
-    "data_p6_data_connector_output_operation:data/output/p6_data_connector/operation"
-    "data_p6_data_connector_output_train:data/output/p6_data_connector/train"
-    "data_p6_data_connector_params_config:data/params/p6_data_connector/config"
-    "data_p6_data_connector_params_model_trained_state:data/params/p6_data_connector/model_trained_state"
-
     "data_p6_qa_global_output_logs:data/output/p6_qa_global/logs"
     "data_p6_qa_global_output_operation:data/output/p6_qa_global/operation"
     "data_p6_qa_global_output_train:data/output/p6_qa_global/train"
@@ -83,6 +77,9 @@ volumes=(
     "data_p6_comb_all_output_train:data/output/p6_comb_all/train"
     "data_p6_comb_all_params_config:data/params/p6_comb_all/config"
     "data_p6_comb_all_params_model_trained_state:data/params/p6_comb_all/model_trained_state"
+
+    "data_p6_data_connector_output_logs:data/output/p6_data_connector/logs"
+    "data_p6_data_connector_params_config:data/params/p6_data_connector/config"
 
     "p6_goes19_consumer_output_logs:data/output/p6_goes19_consumer/logs"
 )
