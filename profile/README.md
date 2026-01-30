@@ -60,13 +60,13 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td colspan="5">CONSUMES API</td>
     </tr>
     <tr>
-      <td>00</td><td>Consumer - EPM</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_data_connector">CONSUMER ✅</a></td><td> ---</td>
+      <td>00</td><td>Consumer - EPM</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_data_connector">CONSUMER ✅</a></td><td> v0.1.1 </td>
     </tr>
     <tr>
       <td>00</td><td>Consumer - GFS</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_gfs_consumer">CONSUMER</a></td><td> ---</td>
     </tr>
     <tr>
-      <td>00</td><td>Consumer - GOES 19</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_goes19_consumer">CONSUMER ✅</a></td><td> ---</td>
+      <td>00</td><td>Consumer - GOES 19</td><td colspan="2"><a href="https://github.com/CER-CHESF/p6_goes19_consumer">CONSUMER ✅</a></td><td> v0.2.0 </td>
     </tr>
   </tbody>
 </table>
