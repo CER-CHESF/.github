@@ -18,7 +18,7 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td colspan="5">MODELOS</td>
     </tr>
     <tr>
-      <td>00</td><td>QA - Global</td><td><a href="https://github.com/CER-CHESF/p6_qa_global_core">CORE ✅</a></td><td><a href="https://github.com/CER-CHESF/p6-qa-global-wrapper">WRAPPER 🧑‍💻</a></td><td> ---</td>
+      <td>00</td><td>QA - Global</td><td><a href="https://github.com/CER-CHESF/p6_qa_global_core">CORE ✅</a></td><td><a href="https://github.com/CER-CHESF/p6-qa-global-wrapper">WRAPPER ✅</a></td><td> v0.1.0 </td>
     </tr>
     <tr>
       <td>00</td><td>QA - Local - Eólica</td><td><a href="https://github.com/CER-CHESF/p6_qa_local_eolica_core">CORE ✅</a></td><td><a href="https://github.com/CER-CHESF/p6_qa_local_eolica_wrapper">WRAPPER 🧑‍💻 </a></td><td> ---</td>
