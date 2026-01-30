@@ -51,10 +51,10 @@ Sistema inteligente com aerogerador integrado às fontes deenergia eólica, sola
       <td colspan="5">LXC / VM</td>
     </tr>
     <tr>
-      <td>00</td><td>WRF - Eólica</td><td colspan="2"><a href="#">CONTAINER ✅</a></td><td> ---</td>
+      <td>00</td><td>WRF - Eólica</td><td colspan="2"><a href="#">CONTAINER ✅</a></td><td> DONE </td>
     </tr>
     <tr>
-      <td>00</td><td>WRF - Solar</td><td colspan="2"><a href="#">CONTAINER ✅</a></td><td> ---</td>
+      <td>00</td><td>WRF - Solar</td><td colspan="2"><a href="#">CONTAINER ✅</a></td><td> DONE </td>
     </tr>
     <tr>
       <td colspan="5">CONSUMES API</td>
